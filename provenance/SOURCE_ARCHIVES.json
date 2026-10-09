@@ -1,0 +1,64 @@
+{
+  "source_archive": {
+    "library_file_id": "libfile_9d1938db28d0819183313ae4375f310e",
+    "version": 9,
+    "file_id": "file_000000007ac081f7a408a97ddaa14c9b",
+    "filename": "PDINN_Jelly_Blender_Project.zip",
+    "bytes": 36000308,
+    "sha256": "780280f80281db78ab62281c01a73a7eabee8b8bcf012c3ee43f4603bc12fe53"
+  },
+  "canonical_blend": {
+    "library_file_id": "libfile_e9ea4fe9f2548191a09c4af2d2fda259",
+    "version": 11,
+    "file_id": "file_0000000058c881f5aff9a3f891570ca6",
+    "path": "pdinn_jelly.blend",
+    "sha256": "8dec516fb834651ab3ea52e99382c1d191b5adc9dcb67abbfcdfc754de04b82a"
+  },
+  "standalone_deliveries": [
+    {
+      "path": "exports/PDINN_NDI_PowerPoint_3D.glb",
+      "library_file_id": "libfile_03b5eabedb7c81919b5d8479584fa5ba",
+      "version": 0
+    },
+    {
+      "path": "exports/PDINN_NDI_PowerPoint_Matte_Boundary_Copy.glb",
+      "library_file_id": "libfile_c1bd06efdeb48191b77cf1fb701d605d",
+      "version": 0
+    },
+    {
+      "path": "renders/PDINN_Jelly_Final_4K_Transparent.png",
+      "library_file_id": "libfile_227e862362108191ad4ba4120d9dae91",
+      "version": 0
+    },
+    {
+      "path": "renders/PDINN_Jelly_Final_4K_Transparent_8bit.png",
+      "library_file_id": "libfile_435a07edbe248191a403cb94bbf88ff8",
+      "version": 0
+    },
+    {
+      "path": "renders/views/01_Top_View.png",
+      "library_file_id": "libfile_c6103f2914c481919250b121cc5b3ace",
+      "version": 0
+    },
+    {
+      "path": "renders/views/02_Low_Side_View.png",
+      "library_file_id": "libfile_6e759030af7881918365c3fc3fb7ba01",
+      "version": 0
+    },
+    {
+      "path": "renders/views/03_Opposite_Oblique_View.png",
+      "library_file_id": "libfile_c485c298127c8191a7a24ed61740d2d7",
+      "version": 0
+    },
+    {
+      "path": "renders/views/04_Molecular_Closeup.png",
+      "library_file_id": "libfile_6ca0a67fca748191848488ba0f36b62b",
+      "version": 0
+    },
+    {
+      "path": "renders/Matte_Boundary_Copy_Preview.png",
+      "library_file_id": "libfile_f6c3721cdd388191b998af8dcb35a5a5",
+      "version": 0
+    }
+  ]
+}

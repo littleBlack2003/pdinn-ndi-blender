@@ -1,0 +1,227 @@
+{
+  "revision": "density-plus50-v8",
+  "relative_to": "v7: 90 orange and 94 blue",
+  "orange_before": 90,
+  "orange_after": 135,
+  "blue_before": 94,
+  "blue_after": 141,
+  "increase_percent_both": 50,
+  "chain_count": 8,
+  "old_five_chains_and_94_cores_unchanged": true,
+  "new_chain_core_counts": [
+    16,
+    16,
+    15
+  ],
+  "orange_band_counts": [
+    34,
+    34,
+    34,
+    33
+  ],
+  "existing_orange_retained": 76,
+  "existing_orange_relocated": 14,
+  "relocated_orange_names": [
+    "PDINN depth 1 \u2022 004",
+    "PDINN depth 1 \u2022 007",
+    "PDINN depth 1 \u2022 010",
+    "PDINN depth 1 \u2022 015",
+    "PDINN depth 1 \u2022 017",
+    "PDINN depth 2 \u2022 004",
+    "PDINN depth 2 \u2022 016",
+    "PDINN depth 3 \u2022 002",
+    "PDINN depth 4 \u2022 003",
+    "PDINN depth 4 \u2022 006",
+    "PDINN depth 4 \u2022 016",
+    "PDINN depth 2 \u2022 density addition 01",
+    "PDINN depth 3 \u2022 density addition 02",
+    "PDINN depth 4 \u2022 density addition 02"
+  ],
+  "existing_molecule_scales_unchanged": true,
+  "new_orange_scales_reused_from_existing_icons": true,
+  "matrix_camera_material_unchanged": true,
+  "all_added_and_relocated_molecules_inside_gel": true,
+  "new_and_relocated_molecule_mesh_intersections": 0,
+  "all_terminal_tips_connected": 282,
+  "new_terminal_tip_max_error": 0.0,
+  "new_paths": [
+    {
+      "chain": 6,
+      "core_count": 16,
+      "length": 11.775669488201302,
+      "minimum_arc_spacing": 0.7450446325467528,
+      "z_range": [
+        0.36000001430511475,
+        0.811786949634552
+      ]
+    },
+    {
+      "chain": 7,
+      "core_count": 16,
+      "length": 12.40469858893806,
+      "minimum_arc_spacing": 0.7869799059292024,
+      "z_range": [
+        1.6399999856948853,
+        1.7527955770492554
+      ]
+    },
+    {
+      "chain": 8,
+      "core_count": 15,
+      "length": 12.522360020727906,
+      "minimum_arc_spacing": 0.8515971443377062,
+      "z_range": [
+        0.5966888666152954,
+        1.2753138542175293
+      ]
+    }
+  ],
+  "orange_placement_attempts": 235,
+  "body_resolution": [
+    1200,
+    720
+  ],
+  "samples": 48,
+  "ratio_label_is_not_an_object_count_ratio": true,
+  "unchanged_content_hashes_verified_against_v7": {
+    "gel": "dc1048b7bfbbefaf5fa285ed2688ff46699aa4aefe8dd6eda3bcf4c0658445a0",
+    "cameras": "efd5f5198b4c48f91a672b2cbe9a7759910d69f0f84a3628b41908365e1d47dd",
+    "material": "a427389d1394fbf75170dbec1b44e31652e4fc47bdccc89de20e6ba163630898",
+    "sources": "608da511de0e1173a1b466caadcc3c83cbf1ca8ec94ea83bcaabb84efa18e84e"
+  },
+  "through_ring_center_connector_passes": 0,
+  "all_282_terminal_tip_max_error": 0.0,
+  "new_to_existing_connector_separations": [
+    {
+      "chains": [
+        6,
+        1
+      ],
+      "minimum_connector_centerline_distance": 1.4799422025680542
+    },
+    {
+      "chains": [
+        6,
+        2
+      ],
+      "minimum_connector_centerline_distance": 0.7663187384605408
+    },
+    {
+      "chains": [
+        6,
+        3
+      ],
+      "minimum_connector_centerline_distance": 0.665772020816803
+    },
+    {
+      "chains": [
+        6,
+        4
+      ],
+      "minimum_connector_centerline_distance": 1.1654895544052124
+    },
+    {
+      "chains": [
+        6,
+        5
+      ],
+      "minimum_connector_centerline_distance": 0.2832314372062683
+    },
+    {
+      "chains": [
+        7,
+        1
+      ],
+      "minimum_connector_centerline_distance": 1.226209044456482
+    },
+    {
+      "chains": [
+        7,
+        2
+      ],
+      "minimum_connector_centerline_distance": 0.3189332187175751
+    },
+    {
+      "chains": [
+        7,
+        3
+      ],
+      "minimum_connector_centerline_distance": 0.49357858300209045
+    },
+    {
+      "chains": [
+        7,
+        4
+      ],
+      "minimum_connector_centerline_distance": 1.6150211095809937
+    },
+    {
+      "chains": [
+        7,
+        5
+      ],
+      "minimum_connector_centerline_distance": 1.0370758771896362
+    },
+    {
+      "chains": [
+        7,
+        6
+      ],
+      "minimum_connector_centerline_distance": 1.2064467668533325
+    },
+    {
+      "chains": [
+        8,
+        1
+      ],
+      "minimum_connector_centerline_distance": 0.8619521856307983
+    },
+    {
+      "chains": [
+        8,
+        2
+      ],
+      "minimum_connector_centerline_distance": 0.26826387643814087
+    },
+    {
+      "chains": [
+        8,
+        3
+      ],
+      "minimum_connector_centerline_distance": 0.49279096722602844
+    },
+    {
+      "chains": [
+        8,
+        4
+      ],
+      "minimum_connector_centerline_distance": 0.3609810769557953
+    },
+    {
+      "chains": [
+        8,
+        5
+      ],
+      "minimum_connector_centerline_distance": 0.7391595840454102
+    },
+    {
+      "chains": [
+        8,
+        6
+      ],
+      "minimum_connector_centerline_distance": 0.46906882524490356
+    },
+    {
+      "chains": [
+        8,
+        7
+      ],
+      "minimum_connector_centerline_distance": 0.5262103080749512
+    }
+  ],
+  "minimum_connector_centerline_distance_among_new_pairs": 0.26826387643814087,
+  "closeup_and_legend_unchanged": true,
+  "whole_preview_visually_checked": true,
+  "single_whole_preview_render_seconds": 32.98,
+  "later_camera_revision": "v9 changes cameras/layout only; see view_validation.json. This record documents the preceding model/palette build."
+}

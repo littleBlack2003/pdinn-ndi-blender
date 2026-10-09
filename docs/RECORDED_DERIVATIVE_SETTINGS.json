@@ -1,0 +1,133 @@
+{
+  "provenance": "Recorded settings supplied by the original model/export task; the later executable export and view-copy scripts were lost after source ZIP v9 and are not recovered here. These values are not a claim of byte-identical regeneration.",
+  "multi_view_common": {
+    "engine": "Cycles",
+    "max_samples": 192,
+    "min_samples": 32,
+    "adaptive_threshold": 0.02,
+    "total_bounces": 16,
+    "transmission_bounces": 12,
+    "transparent_bounces": 16,
+    "denoiser": false,
+    "output": "PNG RGBA8",
+    "text": false,
+    "original_v11_materials_lights": true
+  },
+  "views": [
+    {
+      "file": "01_Top_View.png",
+      "pixels": [
+        2400,
+        1440
+      ],
+      "location": [
+        0.0020265579223632812,
+        0.013820290565490723,
+        21.07587432861328
+      ],
+      "euler_radians": [
+        0,
+        0,
+        0
+      ],
+      "ortho_scale": 14.026741981506348,
+      "elevation_degrees": 90
+    },
+    {
+      "file": "02_Low_Side_View.png",
+      "pixels": [
+        2400,
+        1440
+      ],
+      "location": [
+        9.828678131103516,
+        -15.712109565734863,
+        8.568005561828613
+      ],
+      "euler_radians": [
+        1.1868239641189575,
+        -3.0170117071293134e-08,
+        0.5585054159164429
+      ],
+      "ortho_scale": 15.387115478515625,
+      "elevation_degrees": 22,
+      "azimuth_degrees": 32
+    },
+    {
+      "file": "03_Opposite_Oblique_View.png",
+      "pixels": [
+        2400,
+        1440
+      ],
+      "location": [
+        -5.226879119873047,
+        11.758134841918945,
+        16.39676284790039
+      ],
+      "euler_radians": [
+        0.6981316208839417,
+        7.531855317211011e-08,
+        -2.7227137088775635
+      ],
+      "ortho_scale": 17.619604110717773,
+      "elevation_degrees": 50,
+      "azimuth_degrees": 204
+    },
+    {
+      "file": "04_Molecular_Closeup.png",
+      "pixels": [
+        2400,
+        1800
+      ],
+      "location": [
+        -5.645284652709961,
+        13.32793140411377,
+        14.402612686157227
+      ],
+      "euler_radians": [
+        0.83775794506073,
+        5.898747446053676e-08,
+        -2.7227137088775635
+      ],
+      "ortho_scale": 7.199999809265137,
+      "target": [
+        0.4,
+        -0.25,
+        1.02
+      ],
+      "elevation_degrees": 42,
+      "azimuth_degrees": 204,
+      "edge_crop": "intentional"
+    }
+  ],
+  "original_PPT_GLB": {
+    "triangles": 274036,
+    "meshes": 3,
+    "nodes": 4,
+    "PBR_material_groups": 6,
+    "gel_alpha": 0.055,
+    "gel_roughness": 0.16,
+    "transmission_refraction_extension": false,
+    "source_mesh_reduction_ratios": {
+      "PDINN": 0.3,
+      "NDI_core": 0.5,
+      "connector_curves": 0.45,
+      "gel": 0.18
+    },
+    "initial_pose_degrees": [
+      42,
+      24
+    ],
+    "cameras_lights_floor_text_external_assets": false,
+    "PowerPoint_application_tested": false
+  },
+  "matte_GLB": {
+    "molecular_buffers_materials_transforms": "byte-identical to original GLB per source task validation",
+    "gel_replacement": "two rounded perimeter loops and four corner supports",
+    "color_srgb": "#9BA9B5",
+    "roughness": 0.82,
+    "tube_radius": 0.024,
+    "opaque": true,
+    "PowerPoint_application_tested": false
+  }
+}

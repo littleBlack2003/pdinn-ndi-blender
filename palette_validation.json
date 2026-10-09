@@ -1,0 +1,93 @@
+{
+  "revision": "density50-requested-palette",
+  "pdinn_srgb": "#F0B47C",
+  "polymer_srgb": "#BE7A9A",
+  "materials": [
+    {
+      "material": "PDINN \u2022 warm amber-orange enamel",
+      "srgb_hex": "#F0B47C",
+      "linear_rgb": [
+        0.8713671191987972,
+        0.45641102318040466,
+        0.20155625379439707
+      ]
+    },
+    {
+      "material": "PDINN \u2022 golden raised ring edges",
+      "srgb_hex": "#F0B47C",
+      "linear_rgb": [
+        0.8713671191987972,
+        0.45641102318040466,
+        0.20155625379439707
+      ]
+    },
+    {
+      "material": "NDI \u2022 azure blue enamel",
+      "srgb_hex": "#BE7A9A",
+      "linear_rgb": [
+        0.5149176653765214,
+        0.1946178304415758,
+        0.32314320911295075
+      ]
+    },
+    {
+      "material": "NDI \u2022 continuous azure backbone",
+      "srgb_hex": "#BE7A9A",
+      "linear_rgb": [
+        0.5149176653765214,
+        0.1946178304415758,
+        0.32314320911295075
+      ]
+    },
+    {
+      "material": "NDI \u2022 raised blue fused-ring contours",
+      "srgb_hex": "#BE7A9A",
+      "linear_rgb": [
+        0.5149176653765214,
+        0.1946178304415758,
+        0.32314320911295075
+      ]
+    }
+  ],
+  "orange_count": 135,
+  "polymer_core_count": 141,
+  "chain_count": 8,
+  "geometry_unchanged": true,
+  "jelly_and_studio_materials_unchanged": true,
+  "pixel_note": "Rendered values vary with lighting, highlights, shadows and gel transmission.",
+  "all_shader_colors_roundtrip_to_exact_requested_hex": [
+    {
+      "material": "PDINN \u2022 warm amber-orange enamel",
+      "roundtrip_srgb_hex": "#F0B47C"
+    },
+    {
+      "material": "PDINN \u2022 golden raised ring edges",
+      "roundtrip_srgb_hex": "#F0B47C"
+    },
+    {
+      "material": "NDI \u2022 azure blue enamel",
+      "roundtrip_srgb_hex": "#BE7A9A"
+    },
+    {
+      "material": "NDI \u2022 continuous azure backbone",
+      "roundtrip_srgb_hex": "#BE7A9A"
+    },
+    {
+      "material": "NDI \u2022 raised blue fused-ring contours",
+      "roundtrip_srgb_hex": "#BE7A9A"
+    }
+  ],
+  "geometry_hash_before_and_after": "c094219547562183eb0cd833c8d8a6b8b69dfd229dc62c5c6cda83e94cda9af4",
+  "both_packed_legends_match_recolored_files": {
+    "legend_pdinn": true,
+    "legend_ndi": true
+  },
+  "whole_preview_and_closeup_visually_checked": true,
+  "body_render_resolution": [
+    1200,
+    720
+  ],
+  "body_render_samples": 48,
+  "body_render_seconds": 33.61,
+  "later_camera_revision": "v9 changes cameras/layout only; see view_validation.json. This record documents the preceding model/palette build."
+}

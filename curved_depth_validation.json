@@ -1,0 +1,73 @@
+{
+  "revision": "curved-depth-draft-v4",
+  "depth_bands": [
+    0.36,
+    0.79,
+    1.22,
+    1.66
+  ],
+  "depth_counts": [
+    18,
+    19,
+    19,
+    19
+  ],
+  "orange_count": 75,
+  "chain_count": 5,
+  "gel_z_factor": 1.8,
+  "gel_z_bounds": [
+    0.03366219997406006,
+    2.117654800415039
+  ],
+  "orange_center_z_range": [
+    0.2905117869377136,
+    1.729087471961975
+  ],
+  "blue_centerline_z_ranges": [
+    [
+      0.397066205739975,
+      0.6700000166893005
+    ],
+    [
+      0.785052478313446,
+      1.624462604522705
+    ],
+    [
+      0.4699999988079071,
+      1.657161831855774
+    ],
+    [
+      0.7056525349617004,
+      1.6399942636489868
+    ],
+    [
+      0.44999998807907104,
+      1.100000023841858
+    ]
+  ],
+  "minimum_chain_centerline_separation": 0.24604814560462798,
+  "all_motif_vertices_inside_gel": true,
+  "all_blue_geometry_inside_gel": true,
+  "blue_blocks_follow_xyz_tangent": true,
+  "new_covalent_bonds_added": false,
+  "dof": false,
+  "render_resolution": [
+    1200,
+    720
+  ],
+  "samples": 48,
+  "placement_attempts": 182,
+  "seven_ring_source_unchanged": true,
+  "source_mesh_hash_before": "d0a843d5ca783477ab5cf9c09e5b3ac08a76235f172fc08321b2816ab6e76817",
+  "source_mesh_hash_after": "d0a843d5ca783477ab5cf9c09e5b3ac08a76235f172fc08321b2816ab6e76817",
+  "single_transmission_path": true,
+  "gel_ior": 1.13,
+  "packed_file_images": 2,
+  "packed_fonts": 2,
+  "native_poster_camera_labels_followed_translation": true,
+  "default_samples_all_scenes": [
+    48,
+    48
+  ],
+  "high_quality_render_resumed": false
+}

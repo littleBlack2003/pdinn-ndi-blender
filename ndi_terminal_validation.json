@@ -1,0 +1,34 @@
+{
+  "revision": "ndi-terminal-linkage-v6",
+  "core_count": 78,
+  "connected_terminal_tips": 156,
+  "core_local_attachment_axis": "+Y / -Y",
+  "terminal_tip_max_error": 0.0,
+  "through_ring_center_connector_passes": 0,
+  "connector_splines": 83,
+  "all_rotated_cores_inside_gel": true,
+  "all_connectors_inside_gel_with_radius_margin": true,
+  "ndi_core_mesh_hash_unchanged": "51e8927ddd986bbfcc66a75292b9dfb38610f87b36075a4d6e518d065e2f33c1",
+  "pdinn_core_mesh_hash_unchanged": "940c2da22f51fdb3c12cba725d9c23f9111dff480aada616b26bc4ee9a308976",
+  "orange_transforms_unchanged": "ba4c9ff98853b8af99f308257fcadb72fa7c6755d9db6259ce454548b06a1f30",
+  "repeat_centers_unchanged": "8ccb97cf2eaf8c19ce9d716a10ca78d88089d754637171a9a719b83e6aa28328",
+  "original_path_guides_preserved": 5,
+  "linkage_scope": "User-requested conceptual connection at upper/lower N-R directions; no comonomer invented",
+  "body_resolution": [
+    1200,
+    720
+  ],
+  "samples": 48,
+  "unaffected_content_verified_against_v5": {
+    "orange_meshes_and_transforms": "b43e17197e6566398a2b33d24b96c6841d2bb9d83ebac02217af45248e40d466",
+    "gel": "dc1048b7bfbbefaf5fa285ed2688ff46699aa4aefe8dd6eda3bcf4c0658445a0",
+    "cameras": "efd5f5198b4c48f91a672b2cbe9a7759910d69f0f84a3628b41908365e1d47dd"
+  },
+  "packed_legend_matches_current_png": true,
+  "closeup_and_whole_preview_visually_checked": true,
+  "default_samples_both_scenes": [
+    48,
+    48
+  ],
+  "validation_scope": "Historical v5-to-v6 terminal linkage audit (78 cores). Current 94-core density checks are in density20_validation.json."
+}

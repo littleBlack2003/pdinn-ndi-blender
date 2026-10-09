@@ -1,0 +1,80 @@
+{
+  "revision": "density-plus20-v7",
+  "orange_before": 75,
+  "orange_after": 90,
+  "orange_change_percent": 20,
+  "blue_before": 78,
+  "blue_after": 94,
+  "blue_change_percent": 20.512820512820507,
+  "blue_chain_count": 5,
+  "orange_band_counts": [
+    22,
+    23,
+    23,
+    22
+  ],
+  "original_orange_transforms_unchanged": true,
+  "original_five_path_guides_unchanged": true,
+  "matrix_camera_material_unchanged": true,
+  "all_new_motifs_inside_gel": true,
+  "added_orange_surface_intersections": 0,
+  "blue_candidate_collisions_avoided": 0,
+  "blue_unresolved_mesh_intersections": [],
+  "all_upper_lower_terminal_tips_connected": 188,
+  "terminal_tip_max_error": 0.0,
+  "chain_counts": [
+    {
+      "chain": 1,
+      "before": 15,
+      "after": 18,
+      "length": 11.103386821627739,
+      "minimum_arc_spacing": 0.6178462836251608
+    },
+    {
+      "chain": 2,
+      "before": 17,
+      "after": 21,
+      "length": 13.029942564474192,
+      "minimum_arc_spacing": 0.6214971282237087
+    },
+    {
+      "chain": 3,
+      "before": 17,
+      "after": 20,
+      "length": 12.860145092126285,
+      "minimum_arc_spacing": 0.6452707943224336
+    },
+    {
+      "chain": 4,
+      "before": 15,
+      "after": 18,
+      "length": 11.341220914824936,
+      "minimum_arc_spacing": 0.6318365244014661
+    },
+    {
+      "chain": 5,
+      "before": 14,
+      "after": 17,
+      "length": 10.571076167188536,
+      "minimum_arc_spacing": 0.623192260449283
+    }
+  ],
+  "orange_placement_attempts": 40,
+  "body_resolution": [
+    1200,
+    720
+  ],
+  "samples": 48,
+  "ratio_label_is_not_an_object_count_ratio": true,
+  "unchanged_content_hashes_verified_against_v6": {
+    "gel": "dc1048b7bfbbefaf5fa285ed2688ff46699aa4aefe8dd6eda3bcf4c0658445a0",
+    "cameras": "efd5f5198b4c48f91a672b2cbe9a7759910d69f0f84a3628b41908365e1d47dd",
+    "material": "a427389d1394fbf75170dbec1b44e31652e4fc47bdccc89de20e6ba163630898",
+    "sources": "608da511de0e1173a1b466caadcc3c83cbf1ca8ec94ea83bcaabb84efa18e84e",
+    "guides": "e2e1a904d2a56dc17a4a38bb35dfe4c89369bf62596a2aa017dd34101114cc97"
+  },
+  "through_ring_center_connector_passes": 0,
+  "whole_preview_visually_checked": true,
+  "closeup_and_legend_unchanged": true,
+  "validation_scope": "Historical v6-to-v7 density increase. Current 135/141 scene is audited in density50_validation.json."
+}

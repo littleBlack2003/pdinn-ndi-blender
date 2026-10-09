@@ -1,0 +1,68 @@
+[
+  {
+    "path": "archive/labeled_layout_sources/renders/NDI_Four_Ring_Core_Preview.png",
+    "bytes": 137790,
+    "sha256": "948c93a43c1fed664354536387ad8ff1273467c04236f0e32113943a1935af3e",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "archive/labeled_layout_sources/renders/NDI_Four_Ring_Core_Raw.png",
+    "bytes": 372072,
+    "sha256": "ba23fe38ec82ed6efa665b8f8e06bf74b17f25aff8bd26c61bfe7cc668cad2f7",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_density20.blend",
+    "bytes": 2691100,
+    "sha256": "581f3168b1dc4655899c9f3028995ffaccb6a07c09fdda1ad3e45f04213677b9",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_density50.blend",
+    "bytes": 2858292,
+    "sha256": "d579bfae0ad4b46ebab92a390b6eab2a252947c6b562bb80d43e8479500a4d1e",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_final4k.blend",
+    "bytes": 3144548,
+    "sha256": "e8cec873e8010ad99aeaf62c0c8eb04dfe621a848306f842654d32df198023cf",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_lower_side_view.blend",
+    "bytes": 3236932,
+    "sha256": "1f8f6e0d2329d763fb835bd91ca15abfb6f933a5763292698c6d5be1e60ccf04",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_terminal_linkage.blend",
+    "bytes": 2599072,
+    "sha256": "130ab275486ffe60a6da93beb529c2b2dde32118fcb6b8088a54e6402da1bb09",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_before_textfree.blend",
+    "bytes": 3237524,
+    "sha256": "769cb58b70e2fb26112c37833f2690bf90249cc96f0405d98a4b0615023e15ed",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "checkpoints/pdinn_jelly_density50_before_palette.blend",
+    "bytes": 3240140,
+    "sha256": "132fd378e6aacc1ac981d12d2b5721f148de80483cb2697b1e3656e2c87747d2",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "renders/PDINN_Jelly_Clear_Draft.png",
+    "bytes": 1464401,
+    "sha256": "d9ca41aecaacfd5d19e1b6d6b8dfeb47822f969f88568cb5989b2660f92d5770",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  },
+  {
+    "path": "renders/textfree_transparent_model.png",
+    "bytes": 1464401,
+    "sha256": "d9ca41aecaacfd5d19e1b6d6b8dfeb47822f969f88568cb5989b2660f92d5770",
+    "reason": "Historical binary checkpoint or preview; retained in original Library archive v9 and omitted from this current-model Git archive"
+  }
+]

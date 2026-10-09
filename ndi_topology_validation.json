@@ -1,0 +1,42 @@
+{
+  "revision": "ndi-four-ring-draft-v5",
+  "reference": "assets/user_ndi_structure_reference.png",
+  "core_vertices": 16,
+  "core_edges": 19,
+  "connected_components": 1,
+  "cycle_rank": 4,
+  "ring_faces": [
+    6,
+    6,
+    6,
+    6
+  ],
+  "layout": "Central two fused six-rings, upper and lower six-membered imide rings",
+  "replacement_count": 78,
+  "remaining_rectangular_placeholders": 0,
+  "five_continuous_xyz_paths_preserved": true,
+  "four_orange_depth_bands_preserved": true,
+  "orange_count": 75,
+  "orange_source_mesh_hash": "d0a843d5ca783477ab5cf9c09e5b3ac08a76235f172fc08321b2816ab6e76817",
+  "all_ndi_vertices_inside_gel": true,
+  "conceptual_backbone_not_atom_exact": true,
+  "carbonyls_N_R_comonomer_not_specified_by_icon": true,
+  "samples": 48,
+  "body_resolution": [
+    1200,
+    720
+  ],
+  "preview_resolution": [
+    1200,
+    800
+  ],
+  "geometry_preservation_hashes": {
+    "paths": "57b0997216e5e84a9e9032e80623ff0ede9ccb4c8e621f6a6d744ddf407e616a",
+    "repeat_transforms": "ba8d2d38759b61f2ff2b0201e76800609e50d9506872744ea9f8eb5de86b7d1a",
+    "orange_transforms": "ba4c9ff98853b8af99f308257fcadb72fa7c6755d9db6259ce454548b06a1f30",
+    "gel": "614cc76c54522fac8f8b17c5a00482a56f5c9d700b7c8d1e1e311af8587d0954"
+  },
+  "paths_repeat_transforms_orange_layers_gel_exactly_preserved": true,
+  "packed_legend_matches_current_png": true,
+  "validation_scope": "Historical v4-to-v5 four-ring replacement audit. Current terminal-linkage geometry is audited in ndi_terminal_validation.json."
+}

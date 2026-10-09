@@ -1,0 +1,59 @@
+{
+  "revision": "textfree-transparent-v10",
+  "annotation_objects_removed": [
+    "Title \u2022 editable Chinese.001",
+    "Ratio label \u2022 not object counts.001",
+    "Legend \u2022 PDINN.001",
+    "Legend \u2022 NDI.001",
+    "Concept disclaimer.001",
+    "Legend rendered orange icon.001",
+    "Legend rendered blue key.001"
+  ],
+  "active_scene_count": 1,
+  "active_text_objects": 0,
+  "active_legend_objects": 0,
+  "model_geometry_hash_unchanged": "741fd3fb242e680bf105d40fe7a16d7dd24d1bef24accccfa6ea451cd78bd872",
+  "camera_matrix_hash_unchanged": "6585e49cb5b9c032f080fed2543795168e6eee1ba1106b9ea0efccc599064b48",
+  "lighting_hash_unchanged": "b1b0a4cd4e60cc6b7786802687bf659810bd08a6ce2d3ebc5e398306c3854034",
+  "floor_visible_camera": false,
+  "floor_visible_transmission": false,
+  "world_and_area_lights_retained": true,
+  "film_transparent": true,
+  "film_transparent_glass": true,
+  "film_transparent_roughness": 0.05000000074505806,
+  "image_color_mode": "RGBA",
+  "resolution": [
+    1200,
+    720
+  ],
+  "samples": 48,
+  "pdinn_count": 135,
+  "polymer_core_count": 141,
+  "camera_elevation_deg": 42,
+  "camera_side_azimuth_deg": 24,
+  "pdinn_srgb": "#F0B47C",
+  "polymer_srgb": "#BE7A9A",
+  "archived_labeled_project": "checkpoints/pdinn_jelly_before_textfree.blend",
+  "png_alpha_validation": {
+    "mode": "RGBA",
+    "dimensions": [
+      1200,
+      720
+    ],
+    "alpha_min": 0,
+    "alpha_max": 255,
+    "transparent_pixels": 488625,
+    "partial_alpha_pixels": 219529,
+    "opaque_pixels": 155846,
+    "all_outer_border_pixels_transparent": true,
+    "alpha_bounding_box": [
+      82,
+      54,
+      1117,
+      664
+    ]
+  },
+  "render_seconds": 17.77,
+  "native_png_visually_checked": true,
+  "alpha_composition_qa_on_light_background": true
+}

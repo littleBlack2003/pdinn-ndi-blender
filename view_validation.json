@@ -1,0 +1,91 @@
+{
+  "revision": "lower-side-view-v9",
+  "body_camera_before": {
+    "elevation_deg": 53.80163483339744,
+    "side_azimuth_from_front_deg": 9.374649079663351,
+    "location": [
+      1.75,
+      -10.600000381469727,
+      15.59999942779541
+    ],
+    "rotation_euler": [
+      0.6317806243896484,
+      -1.2421347506119673e-08,
+      0.16361850500106812
+    ],
+    "ortho_scale": 14.399999618530273
+  },
+  "body_camera_after": {
+    "elevation_deg": 41.99999849028146,
+    "side_azimuth_from_front_deg": 23.999993474825537,
+    "location": [
+      5.501208782196045,
+      -12.355917930603027,
+      13.258176803588867
+    ],
+    "rotation_euler": [
+      0.8377580046653748,
+      -5.91741908806398e-08,
+      0.4188789427280426
+    ],
+    "ortho_scale": 15.800000190734863
+  },
+  "poster_camera_before": {
+    "elevation_deg": 53.80163483339744,
+    "side_azimuth_from_front_deg": 9.374649079663351,
+    "location": [
+      1.75,
+      -10.600000381469727,
+      15.59999942779541
+    ],
+    "rotation_euler": [
+      0.6317806243896484,
+      -1.2421347506119673e-08,
+      0.16361850500106812
+    ],
+    "ortho_scale": 15.600000381469727
+  },
+  "poster_camera_after": {
+    "elevation_deg": 41.99999849028146,
+    "side_azimuth_from_front_deg": 23.999993474825537,
+    "location": [
+      5.501208782196045,
+      -12.355917930603027,
+      13.258176803588867
+    ],
+    "rotation_euler": [
+      0.8377580046653748,
+      -5.91741908806398e-08,
+      0.4188789427280426
+    ],
+    "ortho_scale": 17.116666793823242
+  },
+  "body_gel_ndc_bounds": [
+    0.06942341476678848,
+    0.9300662875175476,
+    0.0776682198047638,
+    0.924970805644989
+  ],
+  "whole_matrix_inside_crop": true,
+  "native_label_screen_position_max_error": 0.0,
+  "native_label_apparent_size_preserved": true,
+  "geometry_and_non_camera_object_hash_unchanged": "7d543632c7d04772ef5abd0e55e36bd3ac8dc0fc484feb33cf90fb9b8f17e51e",
+  "all_material_node_hash_unchanged": "18daf1f1e657b0b4fecf1fd75b80f28d014ec3d82882bf733d4b1fc312cdaf76",
+  "pdinn_count": 135,
+  "polymer_core_count": 141,
+  "chain_count": 8,
+  "pdinn_srgb": "#F0B47C",
+  "polymer_srgb": "#BE7A9A",
+  "body_resolution": [
+    1200,
+    720
+  ],
+  "poster_resolution": [
+    1200,
+    800
+  ],
+  "samples": 48,
+  "whole_preview_visually_checked": true,
+  "render_seconds": 28.37,
+  "visual_note": "Whole matrix retained. Front thickness and side edge more visible; existing upper-left surface reflection stronger at this lower angle."
+}

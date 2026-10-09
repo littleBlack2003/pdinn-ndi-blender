@@ -1,0 +1,65 @@
+{
+  "revision": "native-final4k-v11",
+  "approved_scene_content_sha256": "390f466798205c7a58c04767a3fea732bddc8bc468c5940706d513d7e6631600",
+  "geometry_materials_camera_lights_unchanged": true,
+  "resolution": [
+    3840,
+    2304
+  ],
+  "resolution_percentage": 100,
+  "rgba_bit_depth": 16,
+  "render_engine": "Cycles CPU",
+  "native_render_not_upscale": true,
+  "maximum_samples": 512,
+  "adaptive_threshold": 0.01,
+  "adaptive_min_samples": 64,
+  "denoising": false,
+  "openimagedenoise_compiled_support": false,
+  "total_bounces": 16,
+  "transmission_bounces": 12,
+  "transparent_bounces": 16,
+  "pdinn_count": 135,
+  "polymer_core_count": 141,
+  "chain_count": 8,
+  "annotations": 0,
+  "camera_elevation_deg": 42,
+  "camera_side_azimuth_deg": 24,
+  "pdinn_srgb_hex": "#F0B47C",
+  "polymer_srgb_hex": "#BE7A9A",
+  "film_transparent": true,
+  "film_transparent_glass": true,
+  "output": "renders/PDINN_Jelly_Final_4K_Transparent.png",
+  "previous_48_sample_state": "checkpoints/pdinn_jelly_before_final4k.blend",
+  "status": "render_completed",
+  "elapsed_render_seconds": 1891.28,
+  "rgba_validation": {
+    "mode": "RGBA",
+    "dimensions": [
+      3840,
+      2304
+    ],
+    "channel_bit_depth": 16,
+    "alpha_min": 0,
+    "alpha_max": 65535,
+    "transparent_pixels": 5017520,
+    "partial_alpha_pixels": 2076573,
+    "opaque_pixels": 1753267,
+    "all_outer_border_pixels_transparent": true,
+    "alpha_bounding_box": [
+      266,
+      175,
+      3572,
+      2122
+    ],
+    "sha256": "c0260af64a9876aa693b839a9c690520d8824b3eab1cdb9375082a57584f3bb7",
+    "file_size_bytes": 23915275
+  },
+  "visual_quality_review": {
+    "whole_image_inspected": true,
+    "native_resolution_crops_inspected": 3,
+    "no_text_or_legend": true,
+    "model_inside_frame": true,
+    "no_added_compositing_double_images": true,
+    "notes": "Cores and terminal links readable. Fine residual sampling grain in translucent/highlight regions at native resolution; no denoising or sharpening applied. Existing studio reflection preserved."
+  }
+}
